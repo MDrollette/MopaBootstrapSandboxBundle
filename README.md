@@ -44,7 +44,7 @@ if you are using sf 2.0.x with deps use:
 [MopaBootstrapSandboxBundle] 
     git=http://github.com/phiamo/MopaBootstrapSandboxBundle.git 
     target=/bundles/Mopa/Bundle/BootstrapSandboxBundle
-    version=origin/v2.0.x
+    version=origin/v2.0.x-deps
     
 [KnpMenuBundle]
     git = "http://github.com/KnpLabs/KnpMenuBundle.git"

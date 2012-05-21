@@ -26,7 +26,8 @@ class ExamplesController extends Controller{
     */
     public function indexAction(Request $request){
         return array();
-    }    /**
+    }    
+    /**
     * @Route("/mopa/bootstrap/layout", name="mopa_bootstrap_layout_example")
     * @Template
     */
